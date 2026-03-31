@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ずっとそばに",
+  "base_artist": "dongdang",
+  "createdAt": "2026-03-31T06:06:16.391389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ずっとそばに",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/01_ずっとそばに_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ずっとそばに...",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/02_ずっとそばに..._KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cö shu Nie – ずっとそばに (Official Video) / Mini Album \"LITMUS\"",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/03_Cö_shu_Nie_–_ずっとそばに_(Official_Video)___Mini_Album__LITMUS_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ずっとそばに - Forever together",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/04_ずっとそばに_-_Forever_together_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ずっとそばに",
+      "artist": "YUTORI-SEDAI",
+      "has_synced": true,
+      "path": "select/05_ずっとそばに_YUTORI-SEDAI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ずっとそばに",
+      "artist": "dongdang",
+      "has_synced": false,
+      "path": "select/pl_01_ずっとそばに_dongdang.txt"
+    }
+  ]
+}
